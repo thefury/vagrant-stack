@@ -16,6 +16,7 @@ Within your Gemfile:
     gem 'vagrant-stack'
 
 Or:
+
     $ gem install vagrant-file
 
 
